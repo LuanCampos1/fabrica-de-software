@@ -1,17 +1,17 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *Diários de treinos💪🏋️‍♂️😘*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Beatriz Baltazar da Silva|Programadora Front-end|bebaltazar891@gmail.com
+|Luan Campos Clemente Alves|desnvolvedor front-end|luanalves6543@gmail.com|
+|Ordac Libaino Trindade Neto|Gerente de Projeto|ordac.neto@estudante.ifro.edu.br|
+|Emanuel Gonçalves|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Jose Sbaraine |Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 
 
 # Sumário
@@ -82,8 +82,27 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Cadastrar o usuario |inserir os dados do usuario como nome, cpf, email. |
+|RF-002 |Cadastrar os dadaos fisicos| cadastro como: altura, circunferências.|
+|RF-003 |atualizar dados fisicos| atualização de dados. |
+|RF-004 |Atualizar diario de treinos| atualização de treinos  |
+|RF-005 |Cancelar usuário | poder apagar seus dados a qualquer momento.|
+|RF-006 |colocar tipos de exercicios| poder escolher os tipos de exercicios.  |
+|RF-007 |conseguir ver a sua evolução| A pessoa vai conseguir ver a sua evolução |
+|RF-008 |Marcar os dias de treinamento |A pessoa vai conseguir marcar os dias que está treinando  |
+|RF-009 || Descreva aqui as informações sobre o segundo requisito |
+|RF-010 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-011 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-012 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-013 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-014 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-015 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-016 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-017 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-018 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-019 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-020|Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+
 
 
 ## Requisitos Não Funcionais
