@@ -95,13 +95,13 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-011 |Cadastro de maquinario| Possibilidade de especificar equipamento disponivel |
 |RF-012 |Criar uma Pagina de informações gerais| Uma pagina com todos os dados gerais do usuario |
 |RF-013 |Criar uma identidade visual para todo o site| Criar um padrão visual chamativo  |
-|RF-014 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-015 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-016 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-017 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-018 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-019 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-020|Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-014 |Criar Uma aba social| Uma aba com,amigos,comunidades,grupos etc |
+|RF-015 |Sistema de notificações| Um sistema que manda notificações |
+|RF-016 |Desativar e Reativar usuários da plataforma| A desativação de usuários descrito neste requisito |
+|RF-017 |Compartilhar conteúdo da plataforma nas redes sociais facebook, twitter,googleyoutube e whatsapp.| O usuario vai poder comparartilhar resultados nessas plataformas |
+|RF-018 |Criar, manter e excluir agenda de eventos| usuario vai poder criar uma aba de agente com eventos e a editar |
+|RF-019 |Crias, manter e excluir salas de chat online (mensagens instantâneas)| Um chat intantaneo entre varios usuarios |
+|RF-020|Buscar conteúdo na plataforma| Por meio da busca o usuario podera buscar por conteudos especificos |
 
 
 
