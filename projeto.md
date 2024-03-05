@@ -90,11 +90,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-006 |colocar tipos de exercicios| poder escolher os tipos de exercicios.  |
 |RF-007 |conseguir ver a sua evolução| A pessoa vai conseguir ver a sua evolução |
 |RF-008 |Marcar os dias de treinamento |A pessoa vai conseguir marcar os dias que está treinando  |
-|RF-009 || Descreva aqui as informações sobre o segundo requisito |
-|RF-010 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-011 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-012 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
-|RF-013 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
+|RF-009 |Adicionar Sistema de progreção|Sistema de recomendação de aumento nas dificuldades|
+|RF-010 |Criar sistema de adaptação a idade| O treino vai mudar dependendo da idade |
+|RF-011 |Cadastro de maquinario| Possibilidade de especificar equipamento disponivel |
+|RF-012 |Criar uma Pagina de informações gerais| Uma pagina com todos os dados gerais do usuario |
+|RF-013 |Criar uma identidade visual para todo o site| Criar um padrão visual chamativo  |
 |RF-014 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
 |RF-015 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
 |RF-016 |Cadastrar os dadaos fisicos| Descreva aqui as informações sobre o segundo requisito |
